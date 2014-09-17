@@ -348,43 +348,43 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .python {
-  	width: 70%;
+  	width: 60%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
 @-moz-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 60%;  }
 }
 .SQL {
-  	width: 75%;
+  	width: 65%;
   	-moz-animation: SQL 2s ease;
   	-webkit-animation: SQL 2s ease;
 }
 @-moz-keyframes SQL {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes SQL {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 65%;  }
 }
 .UNIX {
-  	width: 80%;
+  	width: 70%;
   	-moz-animation: UNIX 2s ease;
   	-webkit-animation: UNIX 2s ease;
 }
 @-moz-keyframes UNIX {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes UNIX {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 70%;  }
 }
 
 .CI {
